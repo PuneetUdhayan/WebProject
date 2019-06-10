@@ -1,0 +1,26 @@
+.formA {
+            text-align: center;
+            padding: 15px 32px;
+        }
+        a.test {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        input.inputClass {
+            border: none;
+            border-bottom: 2px solid #4CAF50;
+        }
+        small.authClass {
+            color:red;
+        }
+        button.buttonclass {
+            background-color: #4CAF50; 
+            border: none;
+            color: white;
+            padding: 5px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            
+        }
